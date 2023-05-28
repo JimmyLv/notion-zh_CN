@@ -12,6 +12,10 @@ notion-zh_CN 是对notion的汉化脚本。
 > 
 > 该项目仅用于学习，如有侵权24h内会马上删除。
 
+## 下载
+
+[notion-zh_CN.js](./notion-zh_CN.js)
+
 ## 功能
 
 - 支持 网页端 ( 油猴脚本 ) + 桌面端 ( win / mac ) + 安卓端 汉化脚本
