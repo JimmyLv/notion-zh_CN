@@ -16,6 +16,8 @@ notion-zh_CN 是对notion的汉化脚本。
 
 [notion-zh_CN.js](./notion-zh_CN.js)
 
+超详细教程：[https://i0thlzu5d9.feishu.cn/docx/E8iXd4oZAonGC7xltcxc6Yutnef](https://i0thlzu5d9.feishu.cn/docx/E8iXd4oZAonGC7xltcxc6Yutnef)
+
 ## 功能
 
 - 支持 网页端 ( 油猴脚本 ) + 桌面端 ( win / mac ) + 安卓端 汉化脚本
@@ -45,10 +47,10 @@ Notion 已经有了中文语料，让用户能够提前使用中文语料
 
 ## 网页端
 1. ### 安装油猴插件
-   超详细教程：https://i0thlzu5d9.feishu.cn/docx/E8iXd4oZAonGC7xltcxc6Yutnef
+   超详细教程：[https://i0thlzu5d9.feishu.cn/docx/E8iXd4oZAonGC7xltcxc6Yutnef](https://i0thlzu5d9.feishu.cn/docx/E8iXd4oZAonGC7xltcxc6Yutnef)
   
 2. ### 安装油猴脚本
-    打开链接：https://greasyfork.org/zh-CN/scripts/430116-notion-%E5%AE%8C%E5%85%A8%E4%B8%AD%E6%96%87%E5%8C%96-%E5%9F%BA%E4%BA%8E%E9%9F%A9%E8%AF%AD%E7%89%88%E6%9C%AC-%E4%BD%BF%E7%94%A8%E8%85%BE%E8%AE%AFapi%E6%9C%BA%E7%BF%BB 。然后点击安装。
+    打开链接：[https://greasyfork.org/zh-CN/scripts/430116-notion-%E5%AE%8C%E5%85%A8%E4%B8%AD%E6%96%87%E5%8C%96-%E5%9F%BA%E4%BA%8E%E9%9F%A9%E8%AF%AD%E7%89%88%E6%9C%AC-%E4%BD%BF%E7%94%A8%E8%85%BE%E8%AE%AFapi%E6%9C%BA%E7%BF%BB](https://greasyfork.org/zh-CN/scripts/430116-notion-%E5%AE%8C%E5%85%A8%E4%B8%AD%E6%96%87%E5%8C%96-%E5%9F%BA%E4%BA%8E%E9%9F%A9%E8%AF%AD%E7%89%88%E6%9C%AC-%E4%BD%BF%E7%94%A8%E8%85%BE%E8%AE%AFapi%E6%9C%BA%E7%BF%BB) 。然后点击安装。
     
 3. ### 体验汉化效果
     https://www.notion.so
